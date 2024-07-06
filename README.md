@@ -24,3 +24,6 @@ Also please contribute to the data if possible.
 2. Tensorflow
 3. open-cv
 5. cv zone
+
+
+![types of wastes](https://github.com/BrishtiDey/Wasteclassifier/assets/97660357/ebd210e4-38f0-4f3a-b0f2-e67363baf2da)
