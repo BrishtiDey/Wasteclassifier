@@ -10,6 +10,6 @@ while True:
         # prediction = maskClassifier.getPrediction(img)
         # print(prediction)  # Print prediction result
         cv2.imshow("Image", img)
-        cv2.waitKey(1)  # Wait for press a key
+        cv2.waitKey(1)  # press a key
 
 
